@@ -1,9 +1,4 @@
-"""
-=============================================================================
-DASHBOARD VISUALISASI DATA PERKEBUNAN INDONESIA - VERSI OPTIMIZED
-Fix: Loading lambat di Streamlit Cloud
-=============================================================================
-"""
+
 
 import streamlit as st
 import pandas as pd
